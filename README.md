@@ -1,5 +1,7 @@
 # Angular Style Guide
 
+[![Join the chat at https://gitter.im/dciccale/angular-styleguide](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dciccale/angular-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *Opinionated Angular style guide for teams by [@john_papa](//twitter.com/john_papa)*
 
 If you are looking for an opinionated style guide for syntax, conventions, and structuring Angular applications, then step right in. These styles are based on my development experience with [Angular](//angularjs.org), presentations, [Pluralsight training courses](http://pluralsight.com/training/Authors/Details/john-papa) and working in teams.
